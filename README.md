@@ -1,1 +1,1 @@
-# simple--calculator
+# Counter App 
